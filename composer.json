@@ -1,6 +1,15 @@
 {
 	"name": "ahsan-products/testing",
 	"description": "Ahsan Producsts - Testing a Laravel Package.",
+	"license": "MIT",
+	"authors": [
+		{
+		    "name": "Senthil vasan",
+		    "email": "rsensan@gmail.com",
+		    "homepage" : "http://www.agriya.com",
+		    "role" : "Team Leader"
+		}
+	    ],
 	"keywords": ["framework", "laravel"],
 	"require": {
 		"laravel/framework": "4.0.*",
