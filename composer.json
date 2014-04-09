@@ -1,6 +1,6 @@
 {
-	"name": "laravel/laravel",
-	"description": "The Laravel Framework.",
+	"name": "ahsan-products/testing",
+	"description": "Ahsan Producsts - Testing a Laravel Package.",
 	"keywords": ["framework", "laravel"],
 	"require": {
 		"laravel/framework": "4.0.*",
